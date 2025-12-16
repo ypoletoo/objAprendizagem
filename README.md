@@ -9,3 +9,6 @@ Ao longo das etapas, os alunos jogam, testam hipóteses e resolvem desafios form
 
 ## Relação entre mapa conceitual e modelo instrucional
 [Link da relação entre mapa e modelo (no projeto)](https://github.com/learningspace-utfpr-cm/objAprendizagem/blob/main/rela%C3%A7%C3%A3o_mapa_modelo.md) 
+
+## Peças do dominó lógico 
+As peças podem ser encontradas no [arquivo zip](https://github.com/learningspace-utfpr-cm/objAprendizagem/blob/main/pecas.zip)
