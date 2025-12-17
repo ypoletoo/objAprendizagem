@@ -18,7 +18,7 @@ O jogo funciona de forma semelhante a um dominó tradicional, no qual os jogador
 
 Na versão lógica, cada peça possui dois lados que representam valores lógicos ou operadores booleanos. Uma jogada é considerada válida quando a associação entre as peças forma uma expressão lógica correta, tanto em termos de composição quanto de resultado. Ao longo do jogo, os participantes constroem expressões simples e, progressivamente, expressões compostas, resolvendo desafios propostos. O desempenho é avaliado pela correção das associações, pela resolução adequada das expressões lógicas e pela capacidade de justificar os resultados obtidos.
 
-As peças podem ser encontradas no [arquivo zip](https://github.com/learningspace-utfpr-cm/objAprendizagem/blob/main/pecas.zip)
+As peças podem ser encontradas no [link]([https://github.com/learningspace-utfpr-cm/objAprendizagem/blob/main/pecas.zip](https://github.com/learningspace-utfpr-cm/objAprendizagem/tree/main/pecas))
 
 ## Plano de aula
 
