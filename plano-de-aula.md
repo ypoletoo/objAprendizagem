@@ -100,3 +100,9 @@ O educador relaciona a lógica booleana com computação, matemática e raciocí
 - Correção e coerência ao avaliar expressões booleanas.
 - Capacidade de explicar como chegou ao resultado.
 - Interação colaborativa durante a atividade.
+
+## Referências
+
+BLOOM, Benjamin S. et al. Taxonomia dos Objetivos Educacionais. Porto Alegre: Artmed, 1972
+BRASIL. Base Nacional Comum Curricular (BNCC). Brasília: Ministério da Educação, 2018.
+MANZANO, José Augusto N. G.; OLIVEIRA, Jayr Figueiredo de. Algoritmos: lógica para desenvolvimento de programação de computadores. São Paulo: Érica, 2019.
